@@ -9,4 +9,5 @@ Formation Software Factory Starter
 -git status
 -git push
 -git pull
+-git log
 ```
