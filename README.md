@@ -10,4 +10,6 @@ Formation Software Factory Starter
 -git push
 -git pull
 -git log
+-git branch <Nom> (Optionnel)
+-git checkout <Nom>
 ```
