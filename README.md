@@ -1,7 +1,7 @@
 # formationSoftwareFactoryStarter
 Formation Software Factory Starter
 
-# Top 5 des commandes git
+# Top 5 des commandes git - V1.1
 ```
 -git clone
 -git add .
@@ -12,4 +12,5 @@ Formation Software Factory Starter
 -git log
 -git branch <Nom> (Optionnel)
 -git checkout <Nom>
+-git push -u https://<TOKEN> Branch 
 ```
