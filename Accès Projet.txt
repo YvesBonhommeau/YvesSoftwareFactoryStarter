@@ -1,8 +1,10 @@
 https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/
 
-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
+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
 
 git push https://<GITHUB_ACCESS_TOKEN>@github.com/<GITHUB_USERNAME>/<REPOSITORY_NAME>.git
 
-git push https://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@github.com/YvesBonhommeau/YvesSoftwareFactoryStarter.git
----
+git push https://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@github.com/YvesBonhommeau/YvesSoftwareFactoryStarter.git
+
+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 
+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
