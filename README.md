@@ -14,3 +14,19 @@ Formation Software Factory Starter
 -git checkout <Nom>
 -git push -u https://<TOKEN> Branch 
 ```
+
+# Top 5 des commandes maven - V1.0
+```
+mvn compile ou mvn clean compile
+mvn test ou mvn clean test
+mvn package
+mvn verify
+mvn install
+mvn deploy
+```
+
+# Déployer avec maven & java - V1.0
+```
+-mvn clean package
+-cd target
+-java - jar nomprojet.jar
