@@ -2,7 +2,9 @@ package com.ansm.rh;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -14,7 +16,7 @@ public class RetraiteServiceImplTest {
 	
 	private RetraiteServiceImpl retraiteService = new RetraiteServiceImpl();
 	
-	@BeforeEach
+	@BeforeAll
 	public void setUp () {
 	
 		// TODO
@@ -51,7 +53,7 @@ public class RetraiteServiceImplTest {
 		assertEquals(2052, resultat);
 	}
 	
-	@AfterEach
+	@AfterAll
 	public void endTestDown () {
 		// TODO
 		System.out.println ("Fin des tests de Yves...");
