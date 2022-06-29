@@ -38,4 +38,17 @@ mnv clean verify
 # Sites & URL utiles
 ```
 -https://jsonplaceholder.typicode.com/todos/
+- Pour tester des api rest : 
+	chrome extension rest API
+	postman
+
+```	
+API Documentation (Swagger): 
+
+```
+open http://localhost:8080/v3/api-docs
+open http://localhost:8080/swagger-ui.html
+## Jenkins War
+- https://www.jenkins.io/doc/book/installing/war-file/
+fastapi.tiangolo.com
 ```
