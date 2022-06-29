@@ -54,4 +54,7 @@ python Fast API :
 fastapi.tiangolo.com
 Collecte de logs en masse avec ELK
 https://sematext.com/guides/elk-stack/
+Test de lancement de navigateur
+https://www.selenium.dev/documentation/webdriver/
+
 ```
