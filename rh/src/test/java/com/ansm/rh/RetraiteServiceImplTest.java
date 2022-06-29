@@ -17,10 +17,10 @@ public class RetraiteServiceImplTest {
 	private RetraiteServiceImpl retraiteService = new RetraiteServiceImpl();
 	
 	@BeforeAll
-	public void setUp () {
+	public static void setUp () {
 	
 		// TODO
-		System.out.println ("Initialisation des tests de Yves...");
+		System.out.println ("...Initialisation des tests de Yves...");
 	
 	}
 	
@@ -54,9 +54,9 @@ public class RetraiteServiceImplTest {
 	}
 	
 	@AfterAll
-	public void endTestDown () {
+	public static void endTestDown () {
 		// TODO
-		System.out.println ("Fin des tests de Yves...");
+		System.out.println ("...Fin des tests de Yves...");
 	
 	}		
 }
