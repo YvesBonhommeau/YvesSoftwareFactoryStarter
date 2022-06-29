@@ -34,3 +34,8 @@ mnv clean verify
 -java - jar nomprojet.jar
 -
 ```
+
+# Sites & URL utiles
+```
+-https://jsonplaceholder.typicode.com/todos/
+```
