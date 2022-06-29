@@ -58,3 +58,21 @@ Test de lancement de navigateur
 https://www.selenium.dev/documentation/webdriver/
 
 ```
+
+# API Documentation (Swagger): 
+
+```
+open http://localhost:8080/v3/api-docs
+open http://localhost:8080/swagger-ui.html
+```
+
+```
+Jenkins War
+- https://www.jenkins.io/doc/book/installing/war-file/
+```
+```
+Test d'intégration
+- Extension chrome : Selenium IDE
+  Description
+  Selenium Record and Playback tool for ease of getting acquainted with Selenium WebDriver.
+ ```
