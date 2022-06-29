@@ -25,7 +25,7 @@ public class CalculatriceServiceImplTest {
 		assertEquals(132, resultat);
 		
 	}
-	//@Test
+	@Test
 	public void testSoustraction() {
 		// Initialisation du test
 		int x = 100; 
