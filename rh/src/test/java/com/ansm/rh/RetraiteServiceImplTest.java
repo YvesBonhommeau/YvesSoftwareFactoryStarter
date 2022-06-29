@@ -25,6 +25,7 @@ public class RetraiteServiceImplTest {
 	}
 	
 	@Test
+	
 	public void testSexeFemme() {
 		// Initialisation du test
 		String sexe = "F";
