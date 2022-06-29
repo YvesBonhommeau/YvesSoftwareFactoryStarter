@@ -24,6 +24,7 @@ mvn verify
 mvn install
 mvn deploy
 mvn verify
+mnv clean verify
 ```
 
 # Déployer avec maven & java - V1.0
