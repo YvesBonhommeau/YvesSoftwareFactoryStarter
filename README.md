@@ -52,4 +52,6 @@ open http://localhost:8080/swagger-ui.html
 - https://www.jenkins.io/doc/book/installing/war-file/
 python Fast API : 
 fastapi.tiangolo.com
+Collecte de logs en masse avec ELK
+https://sematext.com/guides/elk-stack/
 ```
