@@ -75,6 +75,9 @@ Test d'intégration
 - Extension chrome : Selenium IDE
   Description
   Selenium Record and Playback tool for ease of getting acquainted with Selenium WebDriver.
+  Rest Client Chrome
+  Postman
+  JUnit
 ```
 
 ``` 
