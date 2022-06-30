@@ -69,6 +69,7 @@ open http://localhost:8080/swagger-ui.html
 ```
 Jenkins War
 - https://www.jenkins.io/doc/book/installing/war-file/
+  https://mirror.gruenehoelle.nl/jenkins/war-stable/2.289.1/
 ```
 ```
 Test d'intégration
@@ -79,10 +80,13 @@ Test d'intégration
   Postman
   JUnit
 ```
-
 ``` 
 Test d'intégration d'API REST  python qui génère un rapport HTML
 pip install robotframework 
 robot --help
 robot --version
+```
+```
+Répertoire des outils de DevOps
+https://digital.ai/sites/default/files/pictures/2020-06/Digital.ai_Periodic-Table-of-DevOps.pdf
 ```
