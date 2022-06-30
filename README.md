@@ -75,9 +75,11 @@ Test d'intégration
 - Extension chrome : Selenium IDE
   Description
   Selenium Record and Playback tool for ease of getting acquainted with Selenium WebDriver.
- ```
- 
+```
+
+``` 
 Test d'intégration d'API REST  python qui génère un rapport HTML
 pip install robotframework 
 robot --help
 robot --version
+```
