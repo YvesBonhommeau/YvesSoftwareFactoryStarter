@@ -90,3 +90,12 @@ robot --version
 Répertoire des outils de DevOps
 https://digital.ai/sites/default/files/pictures/2020-06/Digital.ai_Periodic-Table-of-DevOps.pdf
 ```
+
+## 10 Top Open Source Penetration Testing Tools
+```
+Revue de sécurité applicative
+https://owasp.org/
+https://jeremylong.github.io/DependencyCheck/dependency-check-maven/index.html
+https://www.esecurityplanet.com/applications/open-source-penetration-testing-tools/
+https://securityheaders.com/
+```
