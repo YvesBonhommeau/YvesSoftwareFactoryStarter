@@ -80,6 +80,12 @@ Test d'intégration
   Postman
   JUnit
 ```
+```
+Test de performances 
+https://www.wampserver.com/en/download-wampserver-64bits/
+  ab -n 100 -c 10 http://google.com
+https://geekflare.com/fr/web-performance-benchmark/ 
+```
 ``` 
 Test d'intégration d'API REST  python qui génère un rapport HTML
 pip install robotframework 
